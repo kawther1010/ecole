@@ -1,0 +1,22 @@
+html, body{
+    height: 100%;
+}
+
+.navbar_bg{
+    color: #ab9e99;
+}
+.slogan{
+    font-size: 3.5vw;
+    font-weight: 400;
+}
+.grey_bg{
+    background-color: #0dcaf0;
+}
+.bigtxt{
+    font-size: 2vw;
+    font-weight: 400;
+}
+.smalltxt{
+    font-size: 1.5vw;
+    font-weight: 400;
+}
